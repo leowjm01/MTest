@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string-array name="Age">
+        <item>19-30 years</item>
+        <item>31-59 years</item>
+        <item>60+ years</item>
+    </string-array>
+</resources>
